@@ -13,12 +13,12 @@
 .t-Pac .Header-banner{background-color:#333333;}
 .t-Pac .Header-languages{background-color:#333333;}
 .t-Pac .ScrollTop{background-color:#333333!important;}
-.t-Pac .is-focus{color:#333333!important;}
+
 /* rosso mattone */
 .t-Pac .Header-navbar{background-color:#B3292E;}
 .t-Pac .Header-searchTrigger button{background-color:#B3292E;}
-.t-Pac .Megamenu--default{background-color:#FFFFFF; border-bottom-color:#B3292E; border-bottom-weight: thin;}
-.t-Pac .Megamenu--default:link{color:#B3292E!important;}
+.t-Pac .Megamenu--default{background-color:#FFFFFF; border-bottom: 1px solid #B3292E;}
+.t-Pac .is-focus{color:#B3292E!important;}
 .t-Pac .Entrypoint-item{background-color:#B3292E!important;}
 .t-Pac .Header-socialIcons [class*=" Icon-"]{color:#B3292E;}
 .t-Pac .u-color-50{color:#B3292E!important;}
