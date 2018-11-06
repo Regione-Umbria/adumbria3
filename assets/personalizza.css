@@ -18,6 +18,7 @@
 .t-Pac .Header-navbar{background-color:#B3292E;}
 .t-Pac .Header-searchTrigger button{background-color:#B3292E;}
 .t-Pac .Megamenu--default{background-color:#FFFFFF; border-bottom: 1px solid #B3292E;}
+.t-Pac .Megamenu-item>a{color:#B3292E!important;}
 .t-Pac .is-focus{color:#B3292E!important;}
 .t-Pac .Entrypoint-item{background-color:#B3292E!important;}
 .t-Pac .Header-socialIcons [class*=" Icon-"]{color:#B3292E;}
