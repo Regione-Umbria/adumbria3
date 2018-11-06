@@ -17,7 +17,7 @@
 /* rosso mattone */
 .t-Pac .Header-navbar{background-color:#B3292E;}
 .t-Pac .Header-searchTrigger button{background-color:#B3292E;}
-.t-Pac .Megamenu--default{background-color:#B3292E;}
+.t-Pac .Megamenu--default{background-color:#FFFFFF; color:#B3292E!important; border-bottom-color:#B3292E; border-bottom-color: thin;}
 .t-Pac .Entrypoint-item{background-color:#B3292E!important;}
 .t-Pac .Header-socialIcons [class*=" Icon-"]{color:#B3292E;}
 .t-Pac .u-color-50{color:#B3292E!important;}
