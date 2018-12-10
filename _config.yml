@@ -6,6 +6,9 @@ author:            "Redazione"
 
 personalizza_css: true
 
+# Dashboard on/off
+dashboard_adu_attiva: true
+
 # Header data
 header_parent_title: Regione Umbria
 header_parent_url: "https://www.regione.umbria.it"
