@@ -1,18 +1,15 @@
-- title: "Home"
+- title: "Home Monitoraggio #AdUmbria"
   url: /
-
-- title: "Monitoraggio #AdUmbria"
-  url: monitoraggio-adumbria
   dropdown:
   - title: Visione complessiva
-    url: monitoraggio-adumbria
+    url: /
     dropdown:
     - title: "Disponibilità fondi #AdUmbria"
-      url: monitoraggio-adumbria#fondi
+      url: /#fondi
     - title: "Numero progetti #AdUmbria"
-      url: monitoraggio-adumbria#numero
+      url: /#numero
     - title: Avanzamento per fasi
-      url: monitoraggio-adumbria#avanzamento
+      url: /#avanzamento
 
 - title: "Monitoraggio Missioni"
   url: monitoraggio-adumbria
